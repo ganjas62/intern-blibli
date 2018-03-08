@@ -13,6 +13,7 @@ public class App
         number *= 2;
         System.out.println( number + 15 );
 	System.out.println( number + 20);
-	System.out.println( number + 20);    
+	System.out.println( number + 20);
+	System.out.println( number + 44);
     }
 }
