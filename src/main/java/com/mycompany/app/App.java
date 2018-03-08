@@ -11,6 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         int number = 5;
         number *= 4;
+        number *= 2;
         System.out.println( number + 15 );
 	System.out.println( number + 20);
 	System.out.println( number + 20);
